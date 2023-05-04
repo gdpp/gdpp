@@ -1,4 +1,4 @@
-![Logo](https://media.licdn.com/dms/image/D5616AQGiFoujwX1xLg/profile-displaybackgroundimage-shrink_350_1400/0/1677685373337?e=1683158400&v=beta&t=mo-BxVg6l675jjPIQzWMxBfbd0LHQtYCK-tGiG-p1OA)
+![Logo](https://media.licdn.com/dms/image/D5616AQGiFoujwX1xLg/profile-displaybackgroundimage-shrink_350_1400/0/1677685373337?e=1688601600&v=beta&t=oAvGCozdPk-US5HNbbv6D3xrojJR63WjB1A7NeShOyg)
 
 # Welcome everybody to my github profile 🖖.
 
