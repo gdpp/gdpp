@@ -1,4 +1,4 @@
-<img width="895" alt="image" src="https://github.com/gdpp/gdpp/assets/97766676/b24d6232-5521-4149-8b10-a0061c1fd7ec">
+![Gustavo Perez](https://github.com/gdpp/gdpp/assets/97766676/6cc3f867-4e6b-42b9-80e9-d7639f164411)
 
 # Welcome everybody to my github profile 🖖.
 
