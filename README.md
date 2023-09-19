@@ -1,4 +1,4 @@
-![Logo](https://media.licdn.com/dms/image/D5616AQGiFoujwX1xLg/profile-displaybackgroundimage-shrink_350_1400/0/1677685373337?e=1688601600&v=beta&t=oAvGCozdPk-US5HNbbv6D3xrojJR63WjB1A7NeShOyg)
+<img width="895" alt="image" src="https://github.com/gdpp/gdpp/assets/97766676/b24d6232-5521-4149-8b10-a0061c1fd7ec">
 
 # Welcome everybody to my github profile 🖖.
 
