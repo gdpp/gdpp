@@ -21,4 +21,7 @@ Personal Skills 🏋️‍♂️:
 
 🧑🏻‍💻 Code or  🍫 Treat
 
+<a href="https://app.daily.dev/gustavomaple"><img src="https://api.daily.dev/devcards/v2/gS2RcnMsa4IKydINlN7ol.png?r=z6f&type=default" width="356" alt="Gustavo Perez's Dev Card"/></a>
+
 GDPP 👽
+
