@@ -23,3 +23,4 @@ Personal Skills 🏋️‍♂️:
 
 GDPP 👽
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdpp)](https://github.com/gdpp/github-readme-stats)
