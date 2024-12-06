@@ -1,13 +1,13 @@
-![Gustavo Perez](https://github.com/gdpp/gdpp/assets/97766676/e060c77f-1351-457c-bc22-5ecc1fe22c49)
+![Gustavo Perez](https://github.com/user-attachments/assets/d20aafd3-ee99-4472-9241-368dca363546)
 
 # Welcome everybody to my github profile 🖖.
 
 ### 🇲🇽 Mexican Software Engineere.
 
-- 7+ years of experience working with Web Technologies 👨‍💻.
-- I 🖤 learn new tech and frameworks and later apply this knowledge in real projects or study case projects.
-- I'm currently studying to become a full-stack developer 🚀. In this repository 🗃 you will find all the challenges that i done to achieve this goal.
-- 👯 I’m looking to collaborate on projects with Vue, ReactJS, NextJs or Nuxt as Frontend Developer 💻 or NodeJs in the backend ⚙
+- 8+ years of experience working with Web Technologies 👨‍💻.
+- I 🖤 learn new technologies to apply this knowledge in real projects or study case projects.
+- Full-stack developer 🚀. In this repository 🗃 you will find all the challenges that i done to achieve this goal.
+- 👯 I’m looking to collaborate on projects with Vue, ReactJS, as Frontend Developer 💻 or DotNet NodeJs in the backend ⚙
 - 👻 Passionate about horror and paranormal topics.
   
 Personal Skills 🏋️‍♂️:
