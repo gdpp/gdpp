@@ -1,4 +1,4 @@
-![Gustavo Perez](https://github.com/user-attachments/assets/d20aafd3-ee99-4472-9241-368dca363546)
+![Gustavo Perez](https://github.com/user-attachments/assets/41ebb068-96b8-4577-84b2-eca45194d06d)
 
 # Welcome to My GitHub Profile 🖖
 
