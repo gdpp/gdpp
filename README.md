@@ -23,7 +23,7 @@ Lately, I’ve been enjoying cooking 🍳, experimenting with new recipes and fl
 
 ---
 
-📍 **Explore My Work**: [Coming soon!]  
+📍 **Explore My Work**: [gdpp.dev](https://gdpp.dev)  
 📩 **Let’s Connect**:  
 - ✉️ [gustavo.perez.231191@gmail.com](mailto:gustavo.perez.231191@gmail.com)  
 - 🔗 [LinkedIn - gdpp911123](https://www.linkedin.com/in/gdpp911123)  
