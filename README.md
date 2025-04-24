@@ -2,9 +2,9 @@
 
 # Welcome to My GitHub Profile 🖖
 
-I’m Gustavo Pérez, a Mexican Software Engineer 🇲🇽 currently based in Jönköping, Sweden 🇸🇪. With over 8 years of experience in web technologies, I’m a passionate full-stack developer 👨‍💻 dedicated to building impactful solutions.
+I’m Gustavo Pérez, a Mexican Software Engineer 🇲🇽 currently based in Jönköping, Sweden 🇸🇪. With over 8 years of experience in web technologies, I’m a passionate full-stack developer 👨‍💻 focused on the backend dedicated to building  solutions.
 
-I thrive on learning new technologies and applying them to real-world projects and study cases 🚀. My expertise includes frontend development with **React** and **Angular**, as well as backend development with **.NET**, **Node.js**, and **PHP** ⚙️. You’ll find a collection of my coding challenges and projects in this repository 🗃️, showcasing my journey and growth as a developer.
+I thrive on learning new technologies and applying them to real-world projects and study cases 🚀. My expertise includes frontend development with **React** and **Angular**, as well as backend development with **.NET** and **Node.js** ⚙️. You’ll find a collection of my coding challenges and projects in this repository 🗃️, showcasing my journey and growth as a developer.
 
 ### What Drives Me
 - **Programming**: It’s not just my profession—it’s my passion ⚡.
@@ -19,7 +19,8 @@ I thrive on learning new technologies and applying them to real-world projects a
 - Analytical Problem-Solving  
 
 ### Beyond Code
-Lately, I’ve been enjoying cooking 🍳, experimenting with new recipes and flavors.
+- I love spend time with my dogs with long walks or jogging
+- Building my own game dev studio step by step, but there is a long way to go
 
 ---
 
