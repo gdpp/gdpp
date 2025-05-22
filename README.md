@@ -27,7 +27,7 @@ I thrive on learning new technologies and applying them to real-world projects a
 📍 **Explore My Work**: [gdpp.dev](https://gdpp.dev)  
 📩 **Let’s Connect**:  
 - ✉️ [gustavo.perez.231191@gmail.com](mailto:gustavo.perez.231191@gmail.com)  
-- 🔗 [LinkedIn - gdpp911123](https://www.linkedin.com/in/gdpp911123)  
+- 🔗 [LinkedIn - gustavoperez](https://www.linkedin.com/in/gustavoperez-/)  
 - 🐦 [X - @gdpp91](https://twitter.com/gdpp91)  
 - 📸 [Instagram - @gdpp91](https://www.instagram.com/gdpp91)
 
