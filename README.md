@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile 🖖
 
-I’m Gustavo Pérez, a Mexican Software Engineer 🇲🇽 currently based in Jönköping, Sweden 🇸🇪. With over 8 years of experience in web technologies, I’m a passionate full-stack developer 👨‍💻 focused on the backend dedicated to building  solutions.
+I’m Gustavo Pérez, a Mexican Software Engineer 🇲🇽. With over 8 years of experience in web technologies, I’m a passionate full-stack developer 👨‍💻 focused on the backend dedicated to building  solutions.
 
 I thrive on learning new technologies and applying them to real-world projects and study cases 🚀. My expertise includes frontend development with **React** and **Angular**, as well as backend development with **.NET** and **Node.js** ⚙️. You’ll find a collection of my coding challenges and projects in this repository 🗃️, showcasing my journey and growth as a developer.
 
@@ -31,7 +31,7 @@ I thrive on learning new technologies and applying them to real-world projects a
 - 🐦 [X - @gdpp91](https://twitter.com/gdpp91)  
 - 📸 [Instagram - @gdpp91](https://www.instagram.com/gdpp91)
 
-Programming is my craft, and I’m here to code, collaborate, and create. GDPP 👽
+I’m here to code, collaborate, and create. GDPP 👽
 
 [![Gdpp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdpp&show_icons=true&theme=dracula)](https://github.com/gdpp/github-readme-stats)
 
