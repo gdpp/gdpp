@@ -1,40 +1,105 @@
 ![Gustavo Perez](https://github.com/user-attachments/assets/41ebb068-96b8-4577-84b2-eca45194d06d)
 
-# Welcome to My GitHub Profile 🖖
+# Hey, I'm Gustavo Pérez 👾
 
-I’m Gustavo Pérez, a Mexican Software Engineer 🇲🇽. With over 9 years of experience in web technologies, I’m a passionate full-stack developer 👨‍💻 focused to build solutions.
+```bash
+> Software Engineer
+> Full-Stack Builder
+> Backend-minded Frontend Dev
+> Mexico 🇲🇽
+```
 
-I thrive on learning new technologies and applying them to real-world projects and study cases 🚀. My expertise includes frontend development with **React**, as well as backend development with **Python** and **Node.js** ⚙️. You’ll find a collection of my coding challenges and projects in this repository 🗃️, showcasing my journey and growth as a developer.
+I build software focused on **scalability, architecture, and real-world problem solving**.
 
-### What Drives Me
-- **Programming**: It’s not just my profession—it’s my passion ⚡.
-- **Continuous Learning**: I’m always exploring new tools and frameworks to stay ahead.
-- **Collaboration**: I’m eager to work on projects with other developers, particularly in React, Angular, or backend systems.
+For the last **9+ years**, I’ve been building web applications across frontend and backend, with a strong focus on writing maintainable systems, clean code, and continuously leveling up my engineering skills.
 
-### Personal Skills 🏋️‍♂️
-- Communication  
-- Creativity  
-- Critical Thinking  
-- Teamwork  
-- Analytical Problem-Solving  
+Currently obsessed with:
 
-### Beyond Code
-- I love spend time with my dogs with long walks or jogging
-- Building my own game dev studio step by step, but there is a long way to go
-
----
-
-📍 **Explore My Work**: [gdpp.dev](https://gdpp.dev)  
-📩 **Let’s Connect**:  
-- ✉️ [gustavo.perez.231191@gmail.com](mailto:gustavo.perez.231191@gmail.com)  
-- 🔗 [LinkedIn - gustavoperez](https://www.linkedin.com/in/gustavoperez-/)  
-- 🐦 [X - @gdpp91](https://twitter.com/gdpp91)  
-- 📸 [Instagram - @gdpp91](https://www.instagram.com/gdpp91)
-
-I’m here to code, collaborate, and create. GDPP 👽
-
-[![Gdpp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdpp&show_icons=true&theme=dracula)](https://github.com/gdpp/github-readme-stats)
+- Building modern web apps with **React / Next.js**
+- Designing scalable backend systems with **Node.js**
+- Solving practical engineering challenges with **Python**
+- Exploring AI-powered applications and workflows 🤖
+- Improving system design & software architecture
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdpp)](https://github.com/gdpp/github-readme-stats)
+# Tech Stack ⚙️
+
+### Frontend
+- **React**
+- **Next.js**
+- **TypeScript**
+- **TailwindCSS**
+- **shadcn/ui**
+
+### Backend
+- **Node.js**
+- **Python**
+- REST APIs
+- Modular Architecture
+- Clean Architecture principles
+
+### Currently Learning
+- AI integrations & automation
+- Distributed systems
+- Advanced backend patterns
+- System design at scale
+- Performance optimization
+
+---
+
+# What You'll Find Here 🛰️
+
+This profile is my engineering playground.
+
+Inside my repos you'll find:
+
+- Full-stack applications
+- Backend architecture experiments
+- AI-related projects & explorations
+- Technical challenges
+- Learning projects
+- System design practice
+- Random things I build at 2AM ☕
+
+---
+
+# Beyond Code 🌌
+
+When I’m not coding:
+
+- Walking / jogging with my dogs 🐕
+- Learning how systems work under the hood
+- Exploring AI tools and emerging technologies
+- Building ideas just for the fun of engineering
+
+---
+
+# Connect With Me 📡
+
+🌐 **Portfolio**  
+[gdpp.dev](https://gdpp.dev)
+
+📬 **Email**  
+gustavo.perez.231191@gmail.com
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/gustavoperez-/
+
+𝕏 **X / Twitter**  
+https://twitter.com/gdpp91
+
+📷 **Instagram**  
+https://www.instagram.com/gdpp91
+
+---
+
+```ts
+while (alive) {
+  learn();
+  build();
+  improve();
+}
+```
+
+**GP 👽**
